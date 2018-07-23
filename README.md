@@ -12,7 +12,7 @@
 - [ ] easy等级SQL题刷完（2018年7月23日更新）
 ## 目前刷完的算法题
 |index| 题目名称 |  题目编号  | 题目代码链接|类型   |  是否一次性通过|是否水题  |
-|----| --------   |-------| ---- |-----:  | :----:  |:----:|
+|----| --------|-------| ---- |-----:  | :----:  |:----:|
 |1| [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/description/)     | 771 | [代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/Jewels_and_Stones.js)|哈希 |是|是|
 |2| [山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/description/)|   852   |[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/Peak_Index_in_a_Mountain_Array.js) |  二分查找   |是|是|
 |3| [自除数](https://leetcode-cn.com/problems/self-dividing-numbers/description/)| 728| [代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/Self_Dividing_Numbers.js)| 数学  |是|是|
@@ -37,6 +37,6 @@
 
 目前刷完的SQL题
 |index| 题目名称 |  题目编号  | 题目代码链接|用到的知识点|  
-|----| --------   |-------| ---- |-----:  
+|----| -------|-------| ---- |-----|  
 |1|大的国家|595|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/big_countries.sql)|简单的where查询|
 |2|有趣的电影|620|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/not_boring_movies.sql)|MOD函数 输出按某一列的倒叙排序|
