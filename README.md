@@ -1,14 +1,16 @@
 # javascript_leetcode
 ## 用js刷leetcode的算法题
 本仓库是本人用js刷leetcode算法题时的记录，包括代码和在刷部分比较棘手的题时的思路和错误原因总结，尽量靠自己独立完成，实在想不出来的会参考别人的解法，并且在通过后会对比自己的解法和他人解法的不同，希望能帮到一些正在刷leetcode的同学。<br>
+同时也刷leetcode中的SQL题进行学习。
 #### 本仓库的特点：
 - [x] 所有代码用JS书写并全部AC。
 - [x] 代码在[leetcodeCN](http://leetcode-cn.com/)上编写。
 - [x] 包含比较棘手的算法题的解法思路。
 - [x] 不定期更新。
 #### 正在进行
-- [ ] easy等级全部刷完
-## 目前刷完的题
+- [ ] easy等级算法题全部刷完
+- [ ] easy等级SQL题刷完（2018年7月23日更新）
+## 目前刷完的算法题
 |index| 题目名称 |  题目编号  | 题目代码链接|类型   |  是否一次性通过|是否水题  |
 |----| --------   |-------| ---- |-----:  | :----:  |:----:|
 |1| [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/description/)     | 771 | [代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/Jewels_and_Stones.js)|哈希 |是|是|
@@ -29,3 +31,12 @@
 |16|[反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/description/)|345|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/reverse_vowels_of_a_string.js)|双指针 字符串|否|否|
 |17|[最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/description/)|58|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/length_of_last_word.js)|字符串|否|是|
 |18|[字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/description/)|434|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/number_of_segments_in_a_string.js)|字符串|否|否|
+|19|[回文数](https://leetcode-cn.com/problems/palindrome-number/description/)|9|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/number_of_segments_in_a_string.js)|数学|是|是|
+|20|[位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/description/)|191|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/number_of_1_bits.js)|位运算|是|是|
+|21|[找不同](https://leetcode-cn.com/problems/find-the-difference/description/)|389|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/find_the_difference.js)|位运算 哈希表|是|是|
+
+目前刷完的SQL题
+|index| 题目名称 |  题目编号  | 题目代码链接|用到的知识点|  
+|----| --------   |-------| ---- |-----:  
+|1|大的国家|595|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/big_countries.sql)|简单的where查询|
+|2|有趣的电影|620|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/not_boring_movies.sql)|MOD函数 输出按某一列的倒叙排序|
