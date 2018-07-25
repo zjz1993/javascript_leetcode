@@ -35,6 +35,7 @@
 |20|[位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/description/)|191|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/number_of_1_bits.js)|位运算|是|是|
 |21|[找不同](https://leetcode-cn.com/problems/find-the-difference/description/)|389|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/find_the_difference.js)|位运算 哈希表|是|是|
 |22|[棒球比赛](https://leetcode-cn.com/problems/baseball-game/description/)|389|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/baseball_game.js)|栈|是|是|
+|23|[写字符串需要的行数](https://leetcode-cn.com/problems/number-of-lines-to-write-string/description/)|806|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/number_of_lines_to_write_string.js)|其他|是|是|
 
 ## 目前刷完的SQL题
 |index| 题目名称 |  题目编号  | 题目代码链接|用到的知识点|  
