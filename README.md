@@ -40,6 +40,7 @@
 |25|[检测大写字母](https://leetcode-cn.com/problems/detect-capital/description/)|520|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/detect_capital.js)|字符串|否|是|
 |26|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/description/)|125|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/valid_palindrome.js)|字符串|是|是|
 |27|[比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/description/)|844|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/backspace_string_compare.js)|栈 双指针|是|是|
+|28|[字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/description/)|387|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/first_unique_character_in_a_string.js)|哈希表 字符串|否|否|
 
 ## 目前刷完的SQL题
 |index| 题目名称 |  题目编号  | 题目代码链接|用到的知识点|  
