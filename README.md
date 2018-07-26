@@ -39,6 +39,7 @@
 |24|[二进制表示中质数个计算置位](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/description/)|762|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/prime_number_of_set_bits_in_binary_representation.js)|位运算|否|是|
 |25|[检测大写字母](https://leetcode-cn.com/problems/detect-capital/description/)|520|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/detect_capital.js)|字符串|否|是|
 |26|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/description/)|125|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/valid_palindrome.js)|字符串|是|是|
+|27|[比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/description/)|844|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/backspace_string_compare.js)|栈 双指针|是|是|
 
 ## 目前刷完的SQL题
 |index| 题目名称 |  题目编号  | 题目代码链接|用到的知识点|  
