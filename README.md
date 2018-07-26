@@ -36,6 +36,7 @@
 |21|[找不同](https://leetcode-cn.com/problems/find-the-difference/description/)|389|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/find_the_difference.js)|位运算 哈希表|是|是|
 |22|[棒球比赛](https://leetcode-cn.com/problems/baseball-game/description/)|389|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/baseball_game.js)|栈|是|是|
 |23|[写字符串需要的行数](https://leetcode-cn.com/problems/number-of-lines-to-write-string/description/)|806|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/number_of_lines_to_write_string.js)|其他|是|是|
+|24|[二进制表示中质数个计算置位](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/description/)|762|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/prime_number_of_set_bits_in_binary_representation.js)|位运算|否|是|
 
 ## 目前刷完的SQL题
 |index| 题目名称 |  题目编号  | 题目代码链接|用到的知识点|  
