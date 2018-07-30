@@ -43,6 +43,7 @@
 |28|[字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/description/)|387|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/first_unique_character_in_a_string.js)|哈希表 字符串|否|否|
 |28|[存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/description/)|217|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/contains_duplicate.js)|哈希表 数组|是|是|
 |29|[学生出勤记录1](https://leetcode-cn.com/problems/student-attendance-record-i/description/)|551|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/student_attendance_record.js)|字符串|是|是|
+|30|[最常见的单词](https://leetcode-cn.com/problems/most-common-word/description/)|819|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/most_common_words.js)|字符串|是|是|
 
 ## 目前刷完的SQL题
 |index| 题目名称 |  题目编号  | 题目代码链接|用到的知识点|  
