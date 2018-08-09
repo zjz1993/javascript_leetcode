@@ -45,9 +45,10 @@
 |30|[学生出勤记录1](https://leetcode-cn.com/problems/student-attendance-record-i/description/)|551|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/student_attendance_record.js)|字符串|是|是|
 |31|[最常见的单词](https://leetcode-cn.com/problems/most-common-word/description/)|819|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/most_common_words.js)|字符串|是|是|
 |32|[翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/description/)|151|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Medium/reverse_words_in_a_string.js)|字符串|是|是|
+|33|[唯一的摩尔斯密码词](https://leetcode-cn.com/problems/unique-morse-code-words/description/)|804|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/unique_morse_code_words.js)|字符串|是|是|
 
 ## 目前刷完的SQL题
 |index| 题目名称 |  题目编号  | 题目代码链接|用到的知识点|  
 |----| -------|-------| ---- |-----|  
-|1|大的国家|595|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/big_countries.sql)|简单的where查询|
-|2|有趣的电影|620|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/not_boring_movies.sql)|MOD函数 输出按某一列的倒叙排序|
+|1|大的国家|595|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Sql/big_countries.sql)|简单的where查询|
+|2|有趣的电影|620|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Sql/not_boring_movies.sql)|MOD函数 输出按某一列的倒叙排序|
