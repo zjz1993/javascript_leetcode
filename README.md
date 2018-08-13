@@ -46,6 +46,7 @@
 |31|[最常见的单词](https://leetcode-cn.com/problems/most-common-word/description/)|819|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/most_common_words.js)|字符串|是|是|
 |32|[翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/description/)|151|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Medium/reverse_words_in_a_string.js)|字符串|是|是|
 |33|[唯一的摩尔斯密码词](https://leetcode-cn.com/problems/unique-morse-code-words/description/)|804|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/unique_morse_code_words.js)|字符串|是|是|
+|34|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/description/)|20|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/valid_parentheses.js)|字符串 栈|否|是|
 
 ## 目前刷完的SQL题
 |index| 题目名称 |  题目编号  | 题目代码链接|用到的知识点|  
