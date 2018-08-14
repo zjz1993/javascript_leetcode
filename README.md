@@ -48,6 +48,7 @@
 |33|[唯一的摩尔斯密码词](https://leetcode-cn.com/problems/unique-morse-code-words/description/)|804|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/unique_morse_code_words.js)|字符串|是|是|
 |34|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/description/)|20|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/valid_parentheses.js)|字符串 栈|否|是|
 |35|[各位相加](https://leetcode-cn.com/problems/add-digits/description/)|258|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/add_digits.js)|数学|是|是|
+|36|[七进制数](https://leetcode-cn.com/problems/base-7/description/)|504|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/base_7.js)|数学|是|是|
 
 ## 目前刷完的SQL题
 |index| 题目名称 |  题目编号  | 题目代码链接|用到的知识点|  
