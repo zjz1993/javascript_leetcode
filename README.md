@@ -49,6 +49,11 @@
 |34|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/description/)|20|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/valid_parentheses.js)|字符串 栈|否|是|
 |35|[各位相加](https://leetcode-cn.com/problems/add-digits/description/)|258|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/add_digits.js)|数学|是|是|
 |36|[七进制数](https://leetcode-cn.com/problems/base-7/description/)|504|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/base_7.js)|数学|是|是|
+|37|[山羊拉丁文](https://leetcode-cn.com/problems/goat-latin/description/)|824|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/goat_latin.js)|字符串|是|是|
+|38|[赎金信](https://leetcode-cn.com/problems/ransom-note/description/)|383|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/ransom_note.js)|字符串|是|是|
+|38|[复数乘法](https://leetcode-cn.com/problems/complex-number-multiplication/description/)|537|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Medium/complex_number_multiplication.js)|数学 字符串|是|是|
+|39|[两句话中的不常见单词](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/description/)|888|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/uncommon_words_from_two_sentences.js)|数学 字符串|是|是|
+
 
 ## 目前刷完的SQL题
 |index| 题目名称 |  题目编号  | 题目代码链接|用到的知识点|  
