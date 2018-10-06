@@ -53,6 +53,8 @@
 |38|[赎金信](https://leetcode-cn.com/problems/ransom-note/description/)|383|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/ransom_note.js)|字符串|是|是|
 |38|[复数乘法](https://leetcode-cn.com/problems/complex-number-multiplication/description/)|537|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Medium/complex_number_multiplication.js)|数学 字符串|是|是|
 |39|[两句话中的不常见单词](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/description/)|888|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/uncommon_words_from_two_sentences.js)|数学 字符串|是|是|
+|40|[单调数列](https://leetcode-cn.com/problems/monotonic-array/)|896|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/monotonic-array.js)|数组|是|是|
+
 
 
 ## 目前刷完的SQL题
