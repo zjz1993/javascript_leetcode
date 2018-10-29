@@ -54,6 +54,7 @@
 |38|[复数乘法](https://leetcode-cn.com/problems/complex-number-multiplication/description/)|537|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Medium/complex_number_multiplication.js)|数学 字符串|是|是|
 |39|[两句话中的不常见单词](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/description/)|888|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/uncommon_words_from_two_sentences.js)|数学 字符串|是|是|
 |40|[单调数列](https://leetcode-cn.com/problems/monotonic-array/)|896|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/monotonic-array.js)|数组|是|是|
+|41|[两数的和](https://leetcode-cn.com/problems/two-sum/)|1|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/two_sum.js)|数组|是|是|
 
 
 
