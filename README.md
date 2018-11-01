@@ -56,6 +56,7 @@
 |40|[单调数列](https://leetcode-cn.com/problems/monotonic-array/)|896|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/monotonic-array.js)|数组|是|是|
 |41|[两数的和](https://leetcode-cn.com/problems/two-sum/)|1|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/two_sum.js)|数组|是|是|
 |42|[按奇偶排序数列](https://leetcode-cn.com/problems/sort-array-by-parity/)|1|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/sort_array_by_parity.js)|数组|是|是|
+|43|[按奇偶排序数列II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)|1|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/sort_array_by_parity_ii.js)|数组|是|是|
 
 
 
