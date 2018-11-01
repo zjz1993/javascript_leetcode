@@ -51,12 +51,13 @@
 |36|[七进制数](https://leetcode-cn.com/problems/base-7/description/)|504|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/base_7.js)|数学|是|是|
 |37|[山羊拉丁文](https://leetcode-cn.com/problems/goat-latin/description/)|824|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/goat_latin.js)|字符串|是|是|
 |38|[赎金信](https://leetcode-cn.com/problems/ransom-note/description/)|383|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/ransom_note.js)|字符串|是|是|
-|38|[复数乘法](https://leetcode-cn.com/problems/complex-number-multiplication/description/)|537|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Medium/complex_number_multiplication.js)|数学 字符串|是|是|
-|39|[两句话中的不常见单词](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/description/)|888|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/uncommon_words_from_two_sentences.js)|数学 字符串|是|是|
-|40|[单调数列](https://leetcode-cn.com/problems/monotonic-array/)|896|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/monotonic-array.js)|数组|是|是|
-|41|[两数的和](https://leetcode-cn.com/problems/two-sum/)|1|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/two_sum.js)|数组|是|是|
-|42|[按奇偶排序数列](https://leetcode-cn.com/problems/sort-array-by-parity/)|1|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/sort_array_by_parity.js)|数组|是|是|
-|43|[按奇偶排序数列II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)|1|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/sort_array_by_parity_ii.js)|数组|是|是|
+|39|[复数乘法](https://leetcode-cn.com/problems/complex-number-multiplication/description/)|537|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Medium/complex_number_multiplication.js)|数学 字符串|是|是|
+|40|[两句话中的不常见单词](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/description/)|888|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/uncommon_words_from_two_sentences.js)|数学 字符串|是|是|
+|41|[单调数列](https://leetcode-cn.com/problems/monotonic-array/)|896|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/monotonic-array.js)|数组|是|是|
+|42|[两数的和](https://leetcode-cn.com/problems/two-sum/)|1|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/two_sum.js)|数组|是|是|
+|43|[按奇偶排序数列](https://leetcode-cn.com/problems/sort-array-by-parity/)|1|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/sort_array_by_parity.js)|数组|是|是|
+|44|[按奇偶排序数列II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)|1|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/sort_array_by_parity_ii.js)|数组|是|是|
+|44|[Excel表序列](https://leetcode-cn.com/problems/excel-sheet-column-number/)|1|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/excel_sheet_column_number.js)|字符串|是|是|
 
 
 
