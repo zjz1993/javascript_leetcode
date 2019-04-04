@@ -58,6 +58,7 @@
 |43|[按奇偶排序数列](https://leetcode-cn.com/problems/sort-array-by-parity/)|1|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/sort_array_by_parity.js)|数组|是|是|
 |44|[按奇偶排序数列II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)|1|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/sort_array_by_parity_ii.js)|数组|是|是|
 |44|[Excel表序列](https://leetcode-cn.com/problems/excel-sheet-column-number/)|1|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/excel_sheet_column_number.js)|字符串|是|是|
+|45|[Excel表序列](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)|1|[代码链接](https://github.com/zjz1993/javascript_leetcode/blob/master/Easy/squares_of_a_sorted_array/.js)|数组|是|是|
 
 
 
